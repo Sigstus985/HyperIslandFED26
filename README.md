@@ -10,7 +10,7 @@ HTML Recap - find and fix the errors in the HTML file.
 
 ## React Assignments
 
-git remote add origin git@github.com:Sigstus985/HyperIslandFED26.git
+git remote add origin git@github.com:Sigstus985/Javascript-React.git
 
 git branch -M main
 
